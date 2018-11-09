@@ -1,0 +1,22 @@
+{
+  "name": "intermedio",
+  "version": "1.0.0",
+  "description": "Curso Intermedio React",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicollambias/react-intermedio.git"
+  },
+  "dependencies": {
+    "audit": "^0.0.6",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^2.3.1",
+    "gulp-open": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
